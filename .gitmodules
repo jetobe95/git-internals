@@ -1,0 +1,3 @@
+[submodule "md-course"]
+	path = md-course
+	url = git@github.com:jetobe95/md-course.git

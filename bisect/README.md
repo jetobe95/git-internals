@@ -13,4 +13,4 @@ Encuentra un bug 🐞 con git
 git bisect good        
 4bf5c63a0289ea8184503f50726d6421a5953674 is the first bad commit
 ```
-6. Para finalizar `git bisect reset`
+6. Para finalizar y  reiniciar el `HEAD` ejecutar `git bisect reset`

@@ -6,7 +6,7 @@ Encuentra un bug 🐞 con git
 
 1. Iniciar el proceso  `git bisect start`
 1.  Establecer cual fué el commit que no tenía el bug `git bisect good d5a6ab4`
-1. Si el bug persiste `git bisect start`
+1. Si el bug persiste `git bisect bad`
 1. Si el bug no sale  `git bisect good `
 1. Iterar los pasos 3 y 4 anteriores hasta que se obtiene
 ```
